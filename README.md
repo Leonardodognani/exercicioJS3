@@ -1,5 +1,5 @@
 # :book: Exercício de JS 3 :book:
-## Sistema de gastos familiares :money
+## 💸 Sistema de gastos familiares 💸
 ### crie um objeto que possuirá 2 propriedades, ambas do tipo Array:
 * receitas []
 * despesas []
